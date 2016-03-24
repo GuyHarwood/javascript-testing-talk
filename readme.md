@@ -42,6 +42,6 @@ The code examples relevant to each section of the talk are in their own branch.
 * Including dependencies
 * Injecting angular mocks
 * Best practices
-* Typescript
+* Typescript (separate talk)
 
 
