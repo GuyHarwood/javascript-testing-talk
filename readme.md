@@ -1,4 +1,4 @@
-# Javascript Testing Team Talk March 2016
+# Javascript Testing Presentation March 2016
 
 The code examples relevant to each section of the talk are in their own branch.
 
@@ -8,7 +8,7 @@ The code examples relevant to each section of the talk are in their own branch.
 
 * describe & it - standard use and nesting
 * hooks - beforeEach, afterEach
-* [Documentation
+* Documentation
 
 ## Part 2: Test Runners
 
