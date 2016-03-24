@@ -1,9 +1,11 @@
 angular.module('app',[])
-    .controller('HelloWorldController', ['$scope', function($scope){
+    .controller('helloWorldController', ['$scope', function($scope){
+        
+        $scope.message = "";
         
         $scope.hello = function(){
             
-            return "Yo World";
+            $scope.message = "Hello World";
         }
         
     }]);

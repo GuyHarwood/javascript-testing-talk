@@ -8,14 +8,14 @@ describe('helloWorldController', function(){
     beforeEach(inject(function(_$controller_){
         $controllerFactory = _$controller_
         $scope = {};
-        $sut = $controllerFactory('helloWorldController', { $scope : $scope });
+        sut = $controllerFactory('helloWorldController', { $scope : $scope });
     }))
     
     it('should return hello world', function(){
         
-        var actual = $scope.hello();
+        $scope.hello();
         
-        expect(actual).toBe('Hello World');
+        expect($scope.message).toBe('Hello World');
         
     })
     
