@@ -35,17 +35,13 @@ The code examples relevant to each section of the talk are in their own branch.
 
 #### My Notes
 
-To cover...
-
-1. Environment (VS or Command line)
-2. Tools
-3. Referencing necessary libs
-4. creating first test
-5. assertions and jasmine structure
-6. injecting angular mocks
-7. setups
-8. expectations
-9. best practices
- 
+* Environment (IDE / Terminal / Editors)
+* Tools (jasmine, karma, chutzpah)
+* First Test - Hello World 
+* Assertions and jasmine structure
+* Including dependencies
+* Injecting angular mocks
+* Best practices
+* Typescript
 
 
