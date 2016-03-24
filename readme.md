@@ -14,13 +14,9 @@ The code examples relevant to each section of the talk are in their own branch.
 
 ### [Karma](!https://karma-runner.github.io)
 
-
-
 ### [Chutzpah](!http://mmanela.github.io/chutzpah)
 
 ### ReSharper
-
-
 
 ## Part 3: Testing Angular
 
