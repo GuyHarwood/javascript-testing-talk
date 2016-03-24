@@ -12,15 +12,19 @@ The code examples relevant to each section of the talk are in their own branch.
 
 ## Part 2: Test Runners
 
-### [Karma](!https://karma-runner.github.io)
+### Karma
 
-### [Chutzpah](!http://mmanela.github.io/chutzpah)
+[Docs](!https://karma-runner.github.io)
+
+### Chutzpah
+
+[Docs](!http://mmanela.github.io/chutzpah)
 
 ### ReSharper
 
 ## Part 3: Testing Angular
 
-### The most simple Angular application in the world
+### The simplest Angular application in the world
 
  
 1. Its quite easy to unit test Angular components
