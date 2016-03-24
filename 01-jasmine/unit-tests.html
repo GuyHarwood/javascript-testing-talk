@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta http-equiv="content-type" content="text/html;charset=utf-8">
-  <title>Ng App Unit Tests</title>
+  <title>Unit Tests with Jasmine via Browser</title>
   <link rel="stylesheet" href="/node_modules/jasmine-core/lib/jasmine-core/jasmine.css">
   <script src="/node_modules/jasmine-core/lib/jasmine-core/jasmine.js"></script>
   <script src="/node_modules/jasmine-core/lib/jasmine-core/jasmine-html.js"></script>
@@ -11,20 +11,21 @@
 <body>
     <!-- Unit Testing Chapter #1: Proof of life.  -->
   <script>
-      describe('guys new feature', function(){
+      describe('the new feature', function(){
           
-          it('is working', function(){ 
+          it('should be working', function(){ 
               expect(true).toEqual(true); 
           });
           
           describe('which has a great behaviour', function(){
               
-              it('is also working', function(){
+              it('and should also be working', function(){
                   expect(1).toBe(1);
               })
               
           })
-          //it('is failing', function(){ expect(false).toEqual(true); });
+          
+          it('is failing', function(){ expect(false).toEqual(true); });
           
       })
     

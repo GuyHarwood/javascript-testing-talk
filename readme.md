@@ -1,6 +1,6 @@
 # Javascript Testing Presentation March 2016
 
-The code examples relevant to each section of the talk are in their own branch.
+The code examples relevant to each section of the talk are in their own folder.
 
 ## Part 1: Test Frameworks
 
@@ -11,6 +11,10 @@ The code examples relevant to each section of the talk are in their own branch.
 * Documentation
 
 ## Part 2: Test Runners
+
+Running tests via a browser can be cumbersome.  
+
+Enter the test runners....
 
 ### Karma
 
@@ -24,7 +28,7 @@ The code examples relevant to each section of the talk are in their own branch.
 
 ## Part 3: Testing Angular
 
-### The simplest Angular application in the world
+### The most basic Angular application in the world, ever
 
  
 1. Its quite easy to unit test Angular components
@@ -42,6 +46,5 @@ The code examples relevant to each section of the talk are in their own branch.
 * Including dependencies
 * Injecting angular mocks
 * Best practices
-* Typescript (separate talk)
 
 
