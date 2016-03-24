@@ -1,4 +1,4 @@
-# Javascript Testing Presentation March 2016
+# Javascript Testing Team Talk March 2016
 
 The code examples relevant to each section of the talk are in their own branch.
 
